@@ -1,2 +1,2 @@
 # pwn_challenges
-collections of pwn challenges
+This is a collection of pwn challenges from 2023.8.26
